@@ -16,7 +16,7 @@ pyplot.plot(goldvstbond['MA7an'], color='blue', label='Moyenne mobile à 7 ans d
 pyplot.title('Graphique n°15 - Règle de décision or ou marché obligataire')
 pyplot.legend()
 pyplot.grid(True)
-pyplot.xlabel("En période jaune il faut avoir de l\'or, en période bleu il faut avoir des obligations américaines à 10 ans", color='grey')
+pyplot.xlabel("En période jaune il privilégier l\'or, en période bleu il faut privilégier les obligations américaines à 10 ans", color='grey')
 
 
 start = 0
