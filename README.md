@@ -1,4 +1,4 @@
-## Reproduction des graphiques du livre "cessez de vous faire avoir" de Charles GAVE
+### Reproduction des graphiques du livre "cessez de vous faire avoir" de Charles GAVE
 
 Pour lancer les scripts il faut utiliser la commande :
 `python3 script`
